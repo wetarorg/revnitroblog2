@@ -3,7 +3,7 @@ title: "How to build an Application with modern Technology"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "https://bd.gaadicdn.com/processedimages/indian/scout-bobber/640X309/scout-bobber62e8a54b299f5.jpg"
 categories: ["Application", "Data"]
 author: "John Doe"
 tags: ["nextjs", "tailwind"]
