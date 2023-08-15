@@ -1,17 +1,9 @@
 {
   "main": [
     {
-      "name": "Pages",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Blog",
-          "url": "/blog"
-        }
-      ]
-    }
-]
-
+      "name": "Blog",
+      "url": "/blog"
+    },
+  ],
   "footer": []
 }
