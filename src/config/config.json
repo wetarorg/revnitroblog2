@@ -1,5 +1,16 @@
 {
-  "site": {},
+  "site": {
+    "title": "Revnitro",
+    "base_url": "https://astroplate.netlify.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "",
+    "logo": "",
+    "logo_darkmode": "",
+    "logo_width": "150",
+    "logo_height": "30",
+    "logo_text": ""
+  },
   "settings": {
     "search": true,
     "sticky_header": true,
