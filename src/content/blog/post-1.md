@@ -1,16 +1,14 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 meta_title: ""
-description: "this is meta description"
+description: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 date: 2022-04-04T05:00:00Z
 image: "https://bd.gaadicdn.com/processedimages/indian/scout-bobber/640X309/scout-bobber62e8a54b299f5.jpg"
-categories: ["Application", "Data"]
+categories: ["Bike", "300CC"]
 author: "prabha"
 tags: ["bike", "300cc"]
 draft: false
 ---
-
-# Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio
 
 In line with its focus on the premium segment, **Hero MotoCorp**, the world's largest manufacturer of motorcycles and scooters, has introduced the new **Xtreme 200S 4 Valve** to its premium portfolio. This addition follows closely after the launch of the Hero Xtreme 160R 4V.
 
