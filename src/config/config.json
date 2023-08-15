@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Revnitro",
-    "base_url": "",
+    "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "",
@@ -24,6 +24,11 @@
     "contact_form_action": "#",
     "copyright": ""
   },
+  "navigation_button": {
+    "enable": false,
+    "label": "Get Started",
+    "link": ""
+  },
   "disqus": {
     "enable": false,
     "shortname": "themefisher-template",
@@ -32,6 +37,6 @@
   "metadata": {
     "meta_author": "",
     "meta_image": "",
-    "meta_description": ""
+    "meta_description": "astro and tailwind boilerplate"
   }
 }
