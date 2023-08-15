@@ -3,7 +3,7 @@ title: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 meta_title: ""
 description: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 date: 2022-04-04T05:00:00Z
-image: "https://bd.gaadicdn.com/processedimages/indian/scout-bobber/640X309/scout-bobber62e8a54b299f5.jpg"
+image: "https://lh3.google.com/u/0/d/1sZZCyO4O4JPg1LiLqhD3jQ_D-OABPQBN=w2736-h1586-iv1"
 categories: ["Bike", "300CC"]
 author: "prabha"
 tags: ["bike", "300cc"]
