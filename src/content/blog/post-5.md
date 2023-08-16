@@ -1,6 +1,5 @@
 ---
-title: "With no compromise on boot space, Tata Motors revolutionizes the CNG market with its refreshed iCNG portfolio
-"
+title: "Royal Enfield Continental GT Cup Season '23"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
@@ -10,8 +9,6 @@ author: "Dinesh"
 tags: ["RE", "Racing"]
 draft: false
 ---
-
-# Royal Enfield Continental GT Cup Season '23
 
 To be held at Kari Motor Speedway between August 25th to November 19th, the Continental GT Cup Season '23 will have three rounds and continue with the 'Pro-Am Series' format allowing Amateur and Professional riders to compete together in the same grid.
 
