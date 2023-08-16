@@ -3,7 +3,7 @@ title: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 meta_title: ""
 description: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
 date: 2022-04-04T05:00:00Z
-image: "https://file.notion.so/f/s/a5a06d91-618c-4bc6-997b-24e78797e863/Image_01_-_Hero_Xtreme_200S_4V.jpg?id=8b558595-5b97-4161-99bc-c4af4efe7e03&table=block&spaceId=64d20f4e-a285-4bf3-9eb2-9300617ab9bf&expirationTimestamp=1692230400000&signature=Q1GurN7iVdmxPctG3vEtownpJCKnWqqMw4ylTwtKLww&downloadName=Image+01+-+Hero+Xtreme+200S+4V.jpg"
+image: "https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/revnitroblog/Blog/Bike/hero xtreme/Image 01 - Hero Xtreme 200S 4V.jpg"
 categories: ["Bike", "300CC"]
 author: "prabha"
 tags: ["bike", "300cc"]
