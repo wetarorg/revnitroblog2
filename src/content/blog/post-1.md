@@ -24,6 +24,9 @@ The Hero Xtreme 200S 4V is available at Hero MotoCorp dealerships across the cou
 
 Ranjivjit Singh, Chief Business Officer, India BU, Hero MotoCorp, stated, “The Hero Xtreme 200S showcases our focused approach for our premium sports segment. A true masterpiece for riding enthusiasts, Hero Xtreme 200S 4V is an all-day sports motorcycle that distinctively unites urban and sporty performance in perfect form."
 
+![Image 02 - Hero Xtreme 200S 4V](https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/revnitroblog/Blog/Bike/hero%20xtreme/Image%2002%20-%20Hero%20Xtreme%20200S%204V.jpg)
+
+
 ## Product Highlights
 
 ### Best-in-Segment – 4 Valve Technology
