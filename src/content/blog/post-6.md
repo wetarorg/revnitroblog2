@@ -3,7 +3,7 @@ title: "KTM RC CUP Season '23 Finale"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/compressed_gm_40_img_853301_332ceb86_1692014848462_sc.jpg"
+image: "https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/revnitroblog/Blog/Racing/ktm/compressed_gm_40_img_853301_332ceb86_1692014848462_sc.jpg"
 categories: ["Racing"]
 author: "Dinesh"
 tags: ["KTM", "Racing"]
