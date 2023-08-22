@@ -1,145 +1,60 @@
-﻿# Welcome to StackEdit!
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-yfghghjg
+---
+title: "Hero Xtreme 200S 4V 11"
+meta_title: ""
+description: "Hero Xtreme 200S 4V: A Premium Addition to Hero MotoCorp's Portfolio"
+date: 2022-04-04T05:00:00Z
+image: "https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/revnitroblog/Blog/Bike/hero xtreme/Image 01 - Hero Xtreme 200S 4V.jpg"
+categories: ["Bike", "300CC"]
+author: "prabha"
+tags: ["bike", "300cc"]
+draft: false
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EiHY5WP_pDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Files
+In line with its focus on the premium segment, **Hero MotoCorp**, the world's largest manufacturer of motorcycles and scooters, has introduced the new **Xtreme 200S 4 Valve** to its premium portfolio. This addition follows closely after the launch of the Hero Xtreme 160R 4V.
 
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+The Xtreme 200S 4V marks an exciting new chapter for the popular Xtreme brand. With this addition, Hero MotoCorp aims to further attract the youth worldwide with its redefined X-range of premium motorcycles.
 
-## Create files and folders
+The new Hero Xtreme 200S 4V offers power-packed riding dynamics, combining sporty character with safety and practicality for everyday use. Its thrilling design, characterized by precise edges, showcases the motorcycle's athletic nature. The advanced LED headlights ensure excellent visibility on all roads, while the dual-tone and sporty graphics add flair to the motorcycle's appearance.
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+Enhancing the motorcycle's ergonomics, the new split handlebar evokes the athletic energy of this long-distance performer. The aerodynamic design optimized by intelligent dimensions contributes to agile and precise handling, allowing you to conquer curves and straightaways with ease. The 200cc 4 Valve oil-cooled engine, offering 6% more power and 5% added torque, delivers uncompromised sporty performance.
 
-## Switch to another file
+Equipped with smartphone connectivity enabled with Turn-by-Turn navigation, Bluetooth for call and SMS alerts, and a Rear hugger, the new Xtreme 200S 4V is fully prepared for both city travel and sporty riding.
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+The Hero Xtreme 200S 4V is available at Hero MotoCorp dealerships across the country, priced at INR 1,41,250/-* (ex-showroom Delhi).
 
-## Rename a file
+Ranjivjit Singh, Chief Business Officer, India BU, Hero MotoCorp, stated, “The Hero Xtreme 200S showcases our focused approach for our premium sports segment. A true masterpiece for riding enthusiasts, Hero Xtreme 200S 4V is an all-day sports motorcycle that distinctively unites urban and sporty performance in perfect form."
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
-
-## Delete a file
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+![Image 02 - Hero Xtreme 200S 4V](https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/revnitroblog/Blog/Bike/hero%20xtreme/Image%2002%20-%20Hero%20Xtreme%20200S%204V.jpg)
 
 
-# Synchronization
+## Product Highlights
 
-Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
+### Best-in-Segment – 4 Valve Technology
 
-There are two types of synchronization and they can complement each other:
+The Hero Xtreme 200S 4V is powered by a 200cc 4 valve oil-cooled OBD2 and E20 compliant engine with XSense technology. With an output of 19.1 PS @ 8000 RPM and maximum torque of 17.35 Nm @ 6500 RPM, the engine enhances sporty riding dynamics and pleasure. 
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
+The 4 Valve oil-cooled engine not only provides superior power across the mid and top-end speed range but also offers stress-free engine performance even at high speeds, while keeping vibrations in control.
 
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
+The significantly improved transmission in Xtreme 200S 4V offers better strength and durability, while the gear ratio has been updated for better tractive effort and acceleration.
 
-## Open a file
+### Sportingly Stylish
 
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
+The progressive design reflects a striking combination of pure performance and unmatched sporty character. The new split handlebar setup along with updated rider ergonomics results in improved agility and sharp handling on the curves. The sporty aerodynamics, fairing along with precise edges define the motorcycle’s aggressive stance while the muscular rear cowl and sporty compact exhaust underline its athletic nature.
 
-## Save a file
+The shorter wheelbase and a reduced trail add to a highly engaging and sporty ride experience. Apart from brightening up the road, the twin LED headlights with LED DRLs convey the sheer power of presence to get heads turning. The signature LED tail-lights with LED lightguides make sure that the bike never goes unnoticed in traffic.
 
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
+### Uncompromised Performance & Safety
 
-## Synchronize a file
+The 7-step adjustable mono-shock suspension and 130mm wide radial rear tyre with superior grip and traction provide precise handling, making every kilometer more relaxed. The updated front and rear petal disc brakes along with single-channel ABS provide a high degree of efficient braking and safety.
 
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
+### Connectivity
 
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
+The full-digital LCD meter in Hero Xtreme 200S 4V opens up a new world for you, offering unmatched features such as Gear Indicator, Eco-Mode indicator, Service Reminder, and Trip meter which provide regular updates on vehicle efficiency. In addition, it also offers smartphone connectivity and Turn-by-Turn navigation.
 
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
+### Expressive Colors
 
-## Manage file synchronization
+Striking and vibrant dual-tone combinations such as Moon Yellow, Panther Black Metallic, and a premium Stealth Edition perfectly express the incomparable dynamic sports character of the new Xtreme 200S 4V.
 
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
-
-
-# Publication
-
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
