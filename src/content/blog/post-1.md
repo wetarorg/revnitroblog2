@@ -12,6 +12,8 @@ draft: false
 
 In line with its focus on the premium segment, **Hero MotoCorp**, the world's largest manufacturer of motorcycles and scooters, has introduced the new **Xtreme 200S 4 Valve** to its premium portfolio. This addition follows closely after the launch of the Hero Xtreme 160R 4V.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljZLjze1D3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The Xtreme 200S 4V marks an exciting new chapter for the popular Xtreme brand. With this addition, Hero MotoCorp aims to further attract the youth worldwide with its redefined X-range of premium motorcycles.
 
 The new Hero Xtreme 200S 4V offers power-packed riding dynamics, combining sporty character with safety and practicality for everyday use. Its thrilling design, characterized by precise edges, showcases the motorcycle's athletic nature. The advanced LED headlights ensure excellent visibility on all roads, while the dual-tone and sporty graphics add flair to the motorcycle's appearance.
