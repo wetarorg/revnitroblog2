@@ -1,6 +1,5 @@
 ---
-title: Dio WANNA HAVE FUN?
-"
+title: "Dio WANNA HAVE FUN?"
 meta_title: ""
 description: "this is meta description"
 date: 2023-08-11T05:00:00Z
