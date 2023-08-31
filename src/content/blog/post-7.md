@@ -2,7 +2,7 @@
 title: "TVS Motor Company launches TVS Raider Super Squad Edition inspired by the iconic Marvel Super Heroes"
 meta_title: ""
 description: "this is meta description"
-date: **Bengaluru, August 11, 2023:**
+date: 2023-08-11T05:00:00Z
 image: "https://pub-30f0311bc9f042069ab58e9ea548fe98.r2.dev/blog1/Tvs%20Raider%20-%20Revnitro.jpeg"
 categories: ["Bike"]
 author: "Dinesh"
